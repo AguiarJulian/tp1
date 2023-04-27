@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arvo', serif;
+}
+
+body {
+    background-image: url(img/bandera\ carreras.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+header{
+    background-color: rgba(219, 213, 213, 0.938);
+}
+
+#botones_enc {
+    text-align: right;
+}
+
+#botones_enc ul li {
+    font-size: 16px;
+    display: inline-block;
+    list-style: none;
+    margin: 2px;
+}
+
+#botones_enc ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: black ;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#botones_enc ul li a:hover {
+    color: black;
+    background-color: transparent;
+    
+}
+
+.container-lg {
+    background-color: rgba(219, 213, 213, 0.938);
+}
+
+#galeria {
+    height: 500px;
+}
+
+.titulo {
+    font-family: 'Monoton', 'Arvo', cursive;
+    font-size: larger;
+    text-align: center;
+}
+
+body #enla {
+    margin-top: 30px;
+}
+
+#enl a  :hover{
+    background-color: whitesmoke;
+}
+
+#enlaces {
+    position: relative;
+        display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#enlaces_texto h1 {
+    font-size: 30px;
+    color: rgb(41, 41, 163);
+}
+#enlaces_texto p {
+    font-size: 18px;
+    color: black;
+}
+
+
+body #categ {
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+#categorias ul li{
+    list-style: none;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+
+#categorias ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: black ;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+#categorias ul li a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#cuest {
+    height: 20px;
+    }
+#cuestionario p {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#cuestionario {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+#test{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+
+}
+
+
+#test  div p{
+    font-family: 'Arvo', serif;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+footer{
+    margin-top: 20px;
+    
+}
+
+#botones_fot {
+    margin-top: 25px;
+    
+    }
+
+
+#botones_fot ul li {
+    font-size: 16px;
+    display: inline-block;
+    list-style: none;
+    margin: 2px;
+    
+}
+
+#botones_fot ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: black ;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#botones_fot ul li a:hover {
+    color: black;
+    background-color: transparent;
+}
+
+h2{
+    
+    padding-top: 20px;
+}
+.boton{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: black ;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 25px;
+    margin-right: 20px;
+}
+
+.resultado { 
+font-size: 50px;
+font-weight: bold; 
+
+}
